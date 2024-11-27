@@ -1,0 +1,14 @@
+{
+	"Games": [
+		{
+			"Platform":"Steam",
+			"Title":"Beat Saber",
+			"ID":"620980"
+		},
+		{
+			"Platform":"Steam",
+			"Title":"Spin Rhythm XD",
+			"ID":"1058830"
+		}
+	]
+}
